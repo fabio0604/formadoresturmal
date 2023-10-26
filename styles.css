@@ -72,6 +72,12 @@ nav li {
     font-style: italic;
 }
 
+#segundotópico {
+    color: aqua;
+    text-align: center;
+    font-style: italic;
+}
+
 /* Rodapé */
 footer {
     background-color: #333;
@@ -79,3 +85,5 @@ footer {
     padding: 20px 0;
     text-align: center;
 }
+
+

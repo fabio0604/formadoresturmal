@@ -46,6 +46,12 @@ nav li {
 }
 
 /* Destaque do conteúdo principal */
+
+#primeirotopico {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-style: italic;
+}
 .featured {
     background-color: #fff;
     padding: 20px;
@@ -72,7 +78,7 @@ nav li {
     font-style: italic;
 }
 
-#segundotópico {
+#segundotopico {
     color: aqua;
     text-align: center;
     font-style: italic;

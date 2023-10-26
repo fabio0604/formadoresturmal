@@ -48,7 +48,8 @@ nav li {
 /* Destaque do conteúdo principal */
 
 #primeirotopico {
-    margin-bottom: 1em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
     color: deeppink;
     text-align: center;
     font-style: italic;

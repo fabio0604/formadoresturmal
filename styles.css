@@ -27,7 +27,6 @@ header {
 
 .header-logo {
     font-size: 36px;
-    font-style: cambria;
 }
 
 /* Navegação */
@@ -66,6 +65,7 @@ nav li {
 /* Seção de músicas */
 .music-section {
     margin-top: 20px;
+    text-align: center;
 }
 
 .song {

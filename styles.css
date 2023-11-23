@@ -95,6 +95,7 @@ nav li {
     text-align: center;
     font-style: italic;
     font-size: x-large;
+    padding-left: 3%;
 }
 .featured {
     background-color: #fff;

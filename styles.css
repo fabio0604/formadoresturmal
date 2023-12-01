@@ -151,12 +151,14 @@ nav li {
   
   .gallery-item {
     overflow: hidden;
+    width: 100%;
+    height: 300px; /* Ajuste a altura desejada para as imagens */
   }
   
   img {
     width: 100%;
-    height: auto;
-    display: block;
+    height: 100%;
+    object-fit: cover;
   }
   
 /* Rodapé */

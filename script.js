@@ -9,7 +9,7 @@ function showSlides() {
   slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}    
   slides[slideIndex - 1].style.display = "block";  
-  setTimeout(showSlides, 2000); // Altere o tempo (em milissegundos) para mudar os slides automaticamente
+  setTimeout(showSlides, 5000); // Altere o tempo (em milissegundos) para mudar os slides automaticamente
 }
 
 function plusSlides(n) {
